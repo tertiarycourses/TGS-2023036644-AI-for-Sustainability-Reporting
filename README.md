@@ -2,6 +2,16 @@
 
 WSQ course resources for **TGS-2023036644**, developed by Tertiary Infotech Academy Pte Ltd.
 
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2023036644` |
+| Programme | WSQ |
+| Duration | 2 days · 16 training hours · 2 assessment hours |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/ai-for-sustainability-reporting.html) |
+| Funding | Up to 70% course-fee funding for eligible learners or employers. Eligibility and terms apply; funding is currently listed as valid through 17 August 2027. |
+
+## About the course
+
 This two-day, 16-hour course helps learners define a sustainability-reporting objective and boundary, apply the GRI Universal and Topic Standards, build evidence-controlled disclosures, and review a report for approval and submission. The materials incorporate the original trainer deck, the supplied reference ebooks, current Singapore reporting requirements, and public reporting examples from CDL, Singtel, and DBS.
 
 ## Course resources
@@ -9,7 +19,7 @@ This two-day, 16-hour course helps learners define a sustainability-reporting ob
 - [Master Trainer Slides](courseware/WSQ%20-%20Master%20Trainer%20Slides%20-%20Sustainability%20Reporting%20and%20GRI%20Standards%20-%20v10.pdf)
 - [Learner Guide](courseware/LG-TGS-2023036644-Sustainability%20Reporting%20and%20GRI%20Standards-v3.0.pdf)
 - [Lesson Plan](courseware/LP-TGS-2023036644-Sustainability%20Reporting%20and%20GRI%20Standards-v5.0.pdf)
-- [Official course page](https://www.tertiarycourses.com.sg/wsq-sustainability-reporting-and-gri-standards.html)
+- [Official course page](https://www.tertiarycourses.com.sg/ai-for-sustainability-reporting.html)
 - [Courseware folder on Google Drive](https://drive.google.com/drive/folders/1IJA1LDoWxcxAv-TGERAO52oxn9r2jAlH)
 
 ## Learning outcomes
@@ -41,7 +51,11 @@ The summative assessment comprises a 60-minute Written Assessment with five open
 
 ## Current funding information
 
-The official course page currently states SkillsFuture funding of up to 70%, subject to eligibility and prevailing terms. Course fees, subsidies, schedules, and entry requirements can change; verify the [official course page](https://www.tertiarycourses.com.sg/wsq-sustainability-reporting-and-gri-standards.html) before enrolment.
+The official course page currently states SkillsFuture funding of up to 70%, subject to eligibility and prevailing terms. Course fees, subsidies, schedules, and entry requirements can change; verify the [official course page](https://www.tertiarycourses.com.sg/ai-for-sustainability-reporting.html) before enrolment.
+
+## Public and private materials
+
+This repository publishes the learner-facing courseware: the slide deck (PPTX and PDF), Lesson Plan, Learner Guide and the activities. The assessment papers and answer keys, the Facilitator Guide and Assessment Plan, source references and credentials are trainer-only and are never published here.
 
 ## Responsible use
 
